@@ -36,3 +36,4 @@ while jugarDeNuevo == "si" or jugarDeNuevo == "SI":
 	explorarCueva(numeroDeCueva)
 	print("¿ Quieres jugar de nuevo? (Si o No)")
 	jugarDeNuevo = input()
+print("Prueba")

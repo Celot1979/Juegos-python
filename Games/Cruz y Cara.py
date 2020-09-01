@@ -79,3 +79,4 @@ def partida(a, b):
 
 partida(jugador(moneda, opcion1), jugador_Dos(moneda2, opcion2))
 
+print("Prueba")
